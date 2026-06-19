@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**tanush0822-ai/tanush0822-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tanu Sharma 👋
 
-Here are some ideas to get you started:
+## About Me
+📊 Data Analytics Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Developer
+
+📈 Machine Learning Learner
+
+📊 Power BI & Excel
+
+## Skills
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- Power BI
+- Excel
+
+## Projects
+
+### 🎮 Game Analytics Dashboard
+Analysis of game sales and player trends.
+
+### 📞 Telecom Customer Churn Analysis
+Customer retention and churn prediction project.
+
+### 🛒 Amazon Sales Analysis
+Sales trends and business insights.
+
+### 📊 Global Superstore Analysis
+Business performance dashboard and visualizations.
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/tanu-sharma-b237a8381?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+GitHub: https://github.com/tanush0822-ai
